@@ -19,4 +19,3 @@ Some Specifics:
 If there's something you would like to try to do but can't figure out how to make it happen, talk to the instructor! We'll figure something out!
 
 Have some fun with this. No low-effort submissions.
-# exercise-3.1
